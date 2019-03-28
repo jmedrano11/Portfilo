@@ -1,0 +1,30 @@
+.row{
+ width: 100%;
+ height: 300px;
+}
+.col{
+ height: 100%;
+ width: 33%;
+ border: 2px solid black;
+ border-color: violet;
+ display: inline-block;
+ float: left;
+}
+
+body{
+  font-size: 10px;
+  font-family: cursive;
+  text-align: center;
+  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/r8K5nG9Pxiyh9wvn6/videoblocks-space-animation-background-with-nebula-stars-the-milky-way-the-galaxy-and-the-nebula_bf6jvvo3l_thumbnail-full01.png")
+}
+h1{
+  color: violet;
+
+}
+#row{
+  color: violet;
+}
+
+#column{
+  color: violet;
+}
